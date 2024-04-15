@@ -93,6 +93,7 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Alpine Typewrite - Add a typewriter animation to any HTML element](https://github.com/marcreichel/alpine-typewriter)
 * [Alpine AJAX - Tools to build AJAX-powered components and UI](https://github.com/imacrayon/alpine-ajax)
 * [Norska - Create interactive Three.js scenes directly with Alpine](https://github.com/Plumie/Norska)
+* [alpine-editable - Alpine integration for editable.js, the friendly contenteditable API](https://github.com/mgschoen/alpine-editable)
 
 ## UI Frameworks
 
