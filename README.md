@@ -93,6 +93,8 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Alpine Typewrite - Add a typewriter animation to any HTML element](https://github.com/marcreichel/alpine-typewriter)
 * [Alpine AJAX - Tools to build AJAX-powered components and UI](https://github.com/imacrayon/alpine-ajax)
 * [Norska - Create interactive Three.js scenes directly with Alpine](https://github.com/Plumie/Norska)
+* [Alpine.js Hold Directive - allows you to add a hold action to an element and call it when the button is holding](https://github.com/wireui/alpinejs-hold-directive)
+* [Alpinejs Swipe - a custom directive to detect swipe gestures on an element.](https://github.com/iagobruno/alpinejs-swipe)
 
 ## UI Frameworks
 
