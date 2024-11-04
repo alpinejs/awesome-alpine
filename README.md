@@ -104,3 +104,4 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Alpine.js Discord Community](https://discord.gg/CGmj5nq)
 * [Alpine.js Matrix Community](https://matrix.to/#/#AlpineJS:matrix.org)
 * [Alpine.js Persian Matrix Community](https://matrix.to/#/#AlpineJS-fa:matrix.org)
+* [JetShip Laravel SaaS Boilerplate](https://demos.themeselection.com/jetship-laravel-boilerplate)
